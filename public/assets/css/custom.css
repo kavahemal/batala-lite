@@ -1,0 +1,32 @@
+.form-switch .form-check-input {
+    height: 1.2em;
+    width: 2.2em;
+}
+
+.form-control:not(.form-control-sm) {
+    border-radius: var(--bs-border-radius-lg);
+    font-size: .925rem;
+    min-height: calc(2.1875rem + 2px);
+    padding: .4rem 0.85rem;
+}
+
+.form-select:not(.form-select-sm) {
+    border-radius: var(--bs-border-radius-lg);
+    font-size: .925rem;
+    padding-bottom: .4rem;
+    padding-left: 1rem;
+    padding-top: .4rem;
+}
+
+.btn:not(.btn-sm) {
+    --bs-btn-padding-y: 0.4rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size: 0.925rem;
+    --bs-btn-border-radius: var(--bs-border-radius-lg);
+}
+
+@media (min-width: 992px) {
+    .content {
+        padding: 1.5rem 2rem 1.2rem;
+    }
+}

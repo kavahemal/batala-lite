@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+# Prebuilt third-party assets (AdminKit, Bootstrap, jQuery, DataTables, ...): not counted in GitHub's language stats
+public/assets/** linguist-vendored
+public/assets/js/custom.js -linguist-vendored
+public/assets/css/custom.css -linguist-vendored
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
