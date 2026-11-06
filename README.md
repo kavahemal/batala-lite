@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
     <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white" alt="PHP 8.2+">
     <img src="https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/tests-32%20passing-brightgreen" alt="32 tests">
 </p>
 
 *Batala* (બાટલા) is the everyday Gujarati word for gas cylinders.
